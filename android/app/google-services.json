@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31120915565",
+    "project_id": "zego-video-calling",
+    "storage_bucket": "zego-video-calling.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31120915565:android:0433d52207ebf7af289364",
+        "android_client_info": {
+          "package_name": "com.videocalling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZz0CH7XGsNEnwSXA6TeS5rnoHjt_tBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

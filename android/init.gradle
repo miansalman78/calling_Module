@@ -1,0 +1,11 @@
+// Gradle init script to configure build cache location
+// This helps avoid Windows MAX_PATH (260 character) limitation
+
+gradle.settingsEvaluated { settings ->
+    settings.buildCache {
+        local {
+            directory = new File("D:/tmp/gradle-cache")
+        }
+    }
+}
+
