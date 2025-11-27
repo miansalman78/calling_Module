@@ -99,6 +99,7 @@ Continuous background location tracking:
 - **Working on database?** → FIRESTORE_INTEGRATION_GUIDE.md
 - **Working on location?** → LOCATION_TRACKING_GUIDE.md
 - **Need to setup Firebase?** → FIREBASE_SETUP.md
+- **Building for iOS?** → IOS_BUILD_GUIDE.md
 
 ---
 
